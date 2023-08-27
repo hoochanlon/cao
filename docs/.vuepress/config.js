@@ -38,10 +38,10 @@ module.exports = {
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/hr/diyici-qiuzhi','低学历往届生求职历程'],
-                  ['/hr/ti-analysis','培训机构分析报告'],
-                  ['/hr/hr-and-candidate','人力资源与应聘者'],
-                  ['/hr/qizha','高校毕业生就业形势分析及对策']
+                  ['/hr/diyici-qiuzhi','低学历往届生求职历程（2019）'],
+                  ['/hr/ti-analysis','培训机构分析报告（2019）'],
+                  ['/hr/hr-and-candidate','人力资源与应聘者（2020）'],
+                  ['/hr/qizha','高校毕业生就业形势分析及对策（2023）']
                 ]
               },
               {
@@ -49,15 +49,15 @@ module.exports = {
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
-                  ['/companyofchina/the-factory-trap','流水线工厂陷阱'],
-                  ['/companyofchina/jiegou-it-waibao','解构非规范型服务企业']
+                  ['/companyofchina/the-factory-trap','流水线工厂陷阱（2019）'],
+                  ['/companyofchina/jiegou-it-waibao','解构非规范型服务企业（2020）']
                 ]
               },
               {
                 title: '租房日记',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['/zufang-note/fxxkzf','租房防坑记录']]
+                children: [['/zufang-note/fxxkzf','租房防坑记录（2019）']]
               }
             ]
           }
