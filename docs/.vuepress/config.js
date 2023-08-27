@@ -1,7 +1,7 @@
 module.exports = {
-    title: '《Z世代底层个体求职见闻录》',
+    title: '《泥与草》',
     description: '。',
-    base: '/z-diceng-qiuzhi/', //项目文件夹设置目录
+    base: '/ni-yu-cao/', //项目文件夹设置目录
     head:[
       ['link', {rel:'icon', href:'favicon.ico'}]
     ],
