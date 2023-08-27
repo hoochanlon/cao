@@ -57,7 +57,10 @@ module.exports = {
                 title: '租房日记',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
-                children: [['/zufang-note/fxxkzf','租房防坑记录（2019）']]
+                children: [
+                    ['/zufang-note/fxxkzf','租房防坑记录（2019）'],
+                      ['/zufang-note/zufangxinzhi','龙岗坂田租房新知（2022）'],
+                ]
               }
             ]
           }
