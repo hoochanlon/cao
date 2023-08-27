@@ -59,7 +59,7 @@ module.exports = {
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
                     ['/zufang-note/fxxkzf','租房防坑记录（2019）'],
-                      ['/zufang-note/zufangxinzhi','龙岗坂田租房新知（2022）'],
+                    ['/zufang-note/zufangxinzhi','龙岗坂田租房新知（2022）']
                 ]
               }
             ]
