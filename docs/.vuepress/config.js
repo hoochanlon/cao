@@ -51,7 +51,8 @@ module.exports = {
                 children: [
                   ['/companyofchina/the-factory-trap','流水线工厂陷阱（2019）'],
                   ['/companyofchina/jiegou-it-waibao','解构非规范型服务企业（2020）'],
-                  ['/companyofchina/caiyuan','企业裁员研究（2023）']
+                  ['/companyofchina/caiyuan','企业裁员研究（2023）'],
+                 ['/companyofchina/fxxkchina','公司概况·老员工·我个人境遇（2023）']
                 ]
               },
               {
