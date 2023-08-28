@@ -21,7 +21,7 @@ module.exports = {
       // }]
     ],
     themeConfig: {
-      repo: 'https://github.com/hoochanlon/helpdesk-guide/',
+      repo: 'https://github.com/hoochanlon',
       search: false,
       nav: [
         // { text: '跳转首页', link: '/' },
