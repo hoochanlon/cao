@@ -50,7 +50,8 @@ module.exports = {
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
                   ['/companyofchina/the-factory-trap','流水线工厂陷阱（2019）'],
-                  ['/companyofchina/jiegou-it-waibao','解构非规范型服务企业（2020）']
+                  ['/companyofchina/jiegou-it-waibao','解构非规范型服务企业（2020）'],
+                  ['/companyofchina/caiyuan','企业裁员研究（2023）']
                 ]
               },
               {
