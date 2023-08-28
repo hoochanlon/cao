@@ -1,5 +1,5 @@
 module.exports = {
-    title: '《泥与草》',
+    title: '《泥草》',
     description: '。',
     base: '/ni-yu-cao/', //项目文件夹设置目录
     head:[
