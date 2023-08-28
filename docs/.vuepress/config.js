@@ -1,7 +1,7 @@
 module.exports = {
     title: '《泥草》',
     description: '。',
-    base: '/ni-yu-cao/', //项目文件夹设置目录
+    base: '/cao/', //项目文件夹设置目录
     head:[
       ['link', {rel:'icon', href:'favicon.ico'}]
     ],
