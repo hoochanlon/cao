@@ -41,7 +41,8 @@ module.exports = {
                   ['/hr/diyici-qiuzhi','低学历往届生求职历程（2019）'],
                   ['/hr/ti-analysis','培训机构分析报告（2019）'],
                   ['/hr/hr-and-candidate','人力资源与应聘者（2020）'],
-                  ['/hr/qizha','高校毕业生就业形势分析及对策（2023）']
+                  ['/hr/qizha','高校毕业生就业形势分析及对策（2023）'],
+                  ['/hr/mianshixijie','面试过程中需要关注的（2023）']
                 ]
               },
               {
