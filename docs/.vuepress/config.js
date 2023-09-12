@@ -1,5 +1,5 @@
 module.exports = {
-    title: '《泥草》',
+    title: '《草》',
     description: '。',
     base: '/resume/', //项目文件夹设置目录
     head:[
