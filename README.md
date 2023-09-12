@@ -10,5 +10,4 @@
 
 ![](https://cdn.statically.io/gh/hoochanlon/resume/main/resume.png)
 
-
 采用 vuepress，书写我工作的见闻经历：https://hoochanlon.github.io/resume
