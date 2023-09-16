@@ -4,15 +4,9 @@
 * 采用 vuepress，书写我工作的见闻经历：[https://hoochanlon.github.io/resume](https://hoochanlon.github.io/resume) 。
 * 图示与文件位于：[hoochanlon/resume/example](https://github.com/hoochanlon/resume/tree/main/example) 。
 
-**DOCX**
+**DOCX 效果图**
 
 ![](https://cdn.statically.io/gh/hoochanlon/resume/main/resume.jpg)
-
-**PDF**
-
-<!--![](https://cdn.statically.io/gh/hoochanlon/resume/main/resume.png)-->
-
-![](https://raw.githubusercontent.com/hoochanlon/resume/main/example/resume.png)
 
 
 
