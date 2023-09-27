@@ -10,7 +10,10 @@ module.exports = {
     plugins: [
       // https://vuepress.github.io/zh/plugins 插件下载
       ['@vuepress/plugin-back-to-top'],//安装不了插件,建议非全局安装vue
-      ['@vuepress/google-analytics',{'ga': 'UA-157837686-3' // UA-00000000-0}],
+      ['@vuepress/google-analytics',
+      {
+        'ga': 'UA-157837686-3' // UA-00000000-0
+      }],
       // ['copyright', {
       //   noSelect: false,
       //   authorName:{
