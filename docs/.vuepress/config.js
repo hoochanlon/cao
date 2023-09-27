@@ -10,10 +10,27 @@ module.exports = {
     plugins: [
       // https://vuepress.github.io/zh/plugins 插件下载
       ['@vuepress/plugin-back-to-top'],//安装不了插件,建议非全局安装vue
-      ['@vuepress/google-analytics',
-      {
-        'ga': 'UA-157837686-3' // UA-00000000-0
-      }],
+      ['@vuepress/google-analytics',{'ga': 'UA-157837686-3' // UA-00000000-0}],
+      ['vuepress-plugin-search-pro', {
+            searchMaxSuggestions: 10,
+            searchResultLength: 60,
+            searchOptions: {
+                boost: 1,
+                excerptWords: 20
+            },
+            locales: {
+                '/': {
+                    placeholder: '搜索',
+                    noData: '找不到结果',
+                    searchResults: '搜索结果'
+                },
+                '/zh/': {
+                    placeholder: '搜索',
+                    noData: '找不到结果',
+                    searchResults: '搜索结果'
+                }
+            }
+        }]
       // ['copyright', {
       //   noSelect: false,
       //   authorName:{
