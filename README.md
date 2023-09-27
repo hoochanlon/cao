@@ -6,10 +6,13 @@
 
 **DOCX**
 
-![](https://cdn.statically.io/gh/hoochanlon/resume/main/resume.jpg)
+<!--![](https://cdn.statically.io/gh/hoochanlon/resume/main/resume.jpg)-->
+
+![](https://raw.githubusercontent.com/hoochanlon/resume/main/example/resume.jpg)
 
 **PDF**
 
-![](https://cdn.statically.io/gh/hoochanlon/resume/main/resume.png)
+<!--![](https://cdn.statically.io/gh/hoochanlon/resume/main/resume.png)-->
 
 
+![](https://raw.githubusercontent.com/hoochanlon/resume/main/example/resume.png)
