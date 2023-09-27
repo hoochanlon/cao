@@ -43,7 +43,8 @@ module.exports = {
                   ['/hr/hr-and-candidate','人力资源与应聘者（2020）'],
                   ['/hr/qizha','高校毕业生就业形势分析及对策（2023）'],
                   ['/hr/mianshixijie','面试过程中需要关注的（2023）'],
-                ['/hr/sannian-hou-mianshi','工作三年脱离人才市场的教训（2023）']
+                ['/hr/sannian-hou-mianshi','工作三年脱离人才市场的教训（2023）'],
+                ['/hr/jhrzcwdszz','在企业三年被辞退的经历（2023）']
                 ]
               },
               {
