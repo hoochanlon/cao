@@ -25,6 +25,11 @@ module.exports = {
     themeConfig: {
       repo: 'https://github.com/hoochanlon',
       search: false,
+    algolia: {
+        appId: 'WTFUBXAEBO',
+        apiKey: '82b4c29f994578b8ec6566109fc09d71',
+        indexName: 'resume',
+      },
       nav: [
         // { text: '跳转首页', link: '/' },
         { text: 'CC-BY-NC 4.0', link: 'http://creativecommons.org/licenses/by-nc/4.0/' },
