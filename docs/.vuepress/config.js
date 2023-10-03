@@ -76,7 +76,7 @@ module.exports = {
                 ]
               },
             {
-                title: '转型期的边际人幻痛',   // 必要的
+                title: '转型期中边际人的幻痛',   // 必要的
                 collapsable: false, // 可选的, 默认值是 true,
                 sidebarDepth: 1,    // 可选的, 默认值是 1
                 children: [
