@@ -74,6 +74,14 @@ module.exports = {
                     ['/zufang-note/zufangxinzhi','龙岗坂田租房新知（2022）'],
                     ['/zufang-note/shiyouhuigu.md','再租房经历与室友回顾(2023)']
                 ]
+              },
+            {
+                title: '转型期的边际人幻痛',   // 必要的
+                collapsable: false, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+                children: [
+                    ['/huantong/xiangqin.md','相亲面谈的感想']
+                ]
               }
             ]
           }
